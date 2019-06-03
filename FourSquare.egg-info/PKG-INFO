@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: FourSquare
+Version: 0.2
+Summary: An example python package
+Home-page: https://git.e-science.pl/llomnicka238306/bibliotekaPython
+Author: Lilla Lomnicka
+Author-email: 238306@student.pwr.edu.pl
+License: MIT
+Description: s is python library. Created for lesson on PWr W4 DPP.
+        
+Platform: UNKNOWN
