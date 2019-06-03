@@ -6,7 +6,7 @@ table = [['A', 'B', 'C', 'D', 'E'],
          ['P', 'R', 'S', 'T', 'U'],
          ['V', 'W', 'X', 'Y', 'Z']]
 
-print("To jest bib")
+print("To jest bib w wersji 3")
 def generate_table(key = ''):
     alphabet = 'ABCDEFGHIJKLMNOPRSTUVWXYZ'
     table = [[0] * 5 for row in range(5)]

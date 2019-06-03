@@ -3,7 +3,6 @@ setup.py
 FourSquare.egg-info/PKG-INFO
 FourSquare.egg-info/SOURCES.txt
 FourSquare.egg-info/dependency_links.txt
-FourSquare.egg-info/requires.txt
 FourSquare.egg-info/top_level.txt
 myPackage/ForuSquare.py
 myPackage/__init__.py
