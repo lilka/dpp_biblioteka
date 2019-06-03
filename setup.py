@@ -7,7 +7,6 @@ setup(
     license='MIT',
     description='An example python package',
     long_description=open('README.md').read(),
-    install_requires=['re'],
     url='https://github.com/lilka/dpp_biblioteka',
     author='Lilla Lomnicka',
     author_email='238306@student.pwr.edu.pl',
