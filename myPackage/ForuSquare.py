@@ -6,7 +6,7 @@ table = [['A', 'B', 'C', 'D', 'E'],
          ['P', 'R', 'S', 'T', 'U'],
          ['V', 'W', 'X', 'Y', 'Z']]
 
-print("To jest bib w wersji 3")
+print("To jest bib w wersji 4")
 def generate_table(key = ''):
     alphabet = 'ABCDEFGHIJKLMNOPRSTUVWXYZ'
     table = [[0] * 5 for row in range(5)]
@@ -23,6 +23,7 @@ def generate_table(key = ''):
                 alphabet = alphabet[1:]
 
     return table
+
 
 def encrypt(keys, words):
     ciphertext = ''

@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='FourSquare',
-    version='0.3',
+    version='0.4',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='An example python package',
